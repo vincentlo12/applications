@@ -8,4 +8,4 @@ description = "Notebook in Python that allows users to simulate the collection o
 
 [[projects]]
 url = "https://github.com/vincentlo12/Smart-Community-Green-AI-for-Shortage-Forecasting-Using-IoT-Sensor-Data"
-description = "Application in Javascript that gives users a dashboard of their green energy consumption, generation, and shortage; uses ML models to predict future shortage and suggest action"
+description = "Application in Javascript that gives users a dashboard of their green energy consumption, generation, and shortage; uses ML models to predict future shortage and suggest actions to user."
